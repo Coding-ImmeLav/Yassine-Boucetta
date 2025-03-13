@@ -41,10 +41,12 @@ h1,h3 {
     display: flex;
 }
 
-.destra,sinistra {
+.sinistra,destra {
     width: 50%;
 }
 
-img {
-    width: 50%;
+.immagine {
+    /* immagine  */
+    width: 100%;
+    height: 80%;
 }
